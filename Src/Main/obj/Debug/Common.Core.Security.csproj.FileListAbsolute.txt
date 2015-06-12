@@ -1,0 +1,9 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Security.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Security.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\Debug\USC.GISResearchLab.Common.Core.Security.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\Debug\USC.GISResearchLab.Common.Core.Security.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\Debug\Common.Core.Security.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Security\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Security.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Security\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Security.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Security\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Security.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Security\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Security.pdb

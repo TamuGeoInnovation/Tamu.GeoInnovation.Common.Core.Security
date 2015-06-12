@@ -1,0 +1,5 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Security.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Security.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\x86\Debug\Common.Core.Security.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Security.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Security.pdb
