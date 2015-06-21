@@ -1,6 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.Security.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\Release\USC.GISResearchLab.Common.Core.Security.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security\src\obj\Release\Common.Core.Security.csprojResolveAssemblyReference.cache
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Security\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Security.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Security\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Security\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Security.dll
