@@ -2,4 +2,3 @@ D:\DevSource\Tamu\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\
 D:\DevSource\Tamu\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Security.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csprojResolveAssemblyReference.cache
