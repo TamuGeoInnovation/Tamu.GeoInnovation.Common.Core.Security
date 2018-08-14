@@ -6,3 +6,6 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Security.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.dll
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csprojAssemblyReference.cache
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csproj.CoreCompileInputs.cache
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csproj.CopyComplete
