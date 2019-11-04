@@ -50,7 +50,7 @@ namespace USC.GISResearchLab.Common.Security.Cryptography
             return sb.ToString();
         }
 
-       
+
         public static byte[] CalculateMD5HashAsBytes(string input)
         {
             // step 1, calculate MD5 hash from input

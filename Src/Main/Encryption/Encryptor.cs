@@ -36,7 +36,7 @@ namespace USC.GISResearchLab.Common.Security.Encryption
         {
             transformer = new EncryptTransformer(algId);
         }
-        
+
         public byte[] EncryptString(string s, byte[] bytesKey, byte[] initVec)
         {
             return Encrypt(Encoding.ASCII.GetBytes(s), bytesKey, initVec);
