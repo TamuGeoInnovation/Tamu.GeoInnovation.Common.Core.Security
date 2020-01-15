@@ -7,3 +7,6 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Tamu.G
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csprojAssemblyReference.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csproj.CoreCompileInputs.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Security\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Security.dll
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Common.Core.Security.Dev.csprojAssemblyReference.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Security\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.dll
